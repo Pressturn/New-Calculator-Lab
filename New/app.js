@@ -57,3 +57,4 @@ calculator.addEventListener("click", (event) => {
 });
 
 /*-------------------------------- Functions --------------------------------*/
+    
